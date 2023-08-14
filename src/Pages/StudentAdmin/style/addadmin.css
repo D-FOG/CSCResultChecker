@@ -1,7 +1,7 @@
 .sAdminMain{
     display: flex;
     justify-content: center;
-    height: 85vh;
+    height: 200%;
 }
 
 .sAdmindesc{
@@ -10,13 +10,14 @@
 }
 
 .sAdminform{
-    margin-top: 10px;
+    height: fit-content;
+    margin: 10px 0;
     padding: 10px;
 }
 
 .sAdminCard{
     margin-top: 20px;
-    height: 50vh;
+    height: fit-content;
     padding: 10px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
