@@ -13,7 +13,7 @@ Welcome to the CSC Result Checker website! This website allows you to check the 
 
 ## Demo
 
-A live demo of the website is available at [https://csc-result-checker.vercel.app/](https://csc-result-checker.vercel.app/). Feel free to check it out and explore its functionality.
+A live demo of the website is available at [https://csc-result-checker.vercel.app/](https://csc-result-checker.vercel.app/) (This is the first site) [https://result-management-system-uniport-csc.vercel.app/](https://result-management-system-uniport-csc.vercel.app/) (the second)or you can use the third URL [https://result-management-system-two.vercel.app/](https://result-management-system-two.vercel.app/). Feel free to check it out and explore its functionality.
 
 ## Installation
 
